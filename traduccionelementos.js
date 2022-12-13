@@ -203,7 +203,7 @@ function setLanguage(getLanguage) {
         lablist3.innerHTML = "Collapsible tubes";
         lablist4.innerHTML = "Sachets";
         desarrolloenvase.innerHTML = "Packaging";
-        titulode.innerHTML = "Instrucciones de uso: ¿Cómo aplicar el producto?";
+        titulode.innerHTML = "development";
         de1.innerHTML = "development";
         de2.innerHTML = "Personalized pet container";
         de3.innerHTML = "Custom packaging";
